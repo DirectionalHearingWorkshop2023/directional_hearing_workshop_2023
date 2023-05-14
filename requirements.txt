@@ -1,0 +1,7 @@
+numpy
+wave
+netCDF4
+streamlit_extras
+soundfile
+librosa
+matplotlib

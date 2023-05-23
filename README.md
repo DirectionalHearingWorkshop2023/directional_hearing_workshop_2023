@@ -39,6 +39,7 @@ The HRTFs were sourced from https://3d3a.princeton.edu/3d3a-lab-head-related-tra
 
 ### Audio Data
 The sound content is all loyalty-free from "[XLN audio](https://www.xlnaudio.com/terms_and_conditions)" and "[Apple](https://support.apple.com/en-au/HT202939)":
+
 "Baby Chick Chirp" from Logic Pro X
 Copyright © 2023 Apple Inc. All rights reserved.
 "Dog Bark 03" from Logic Pro X

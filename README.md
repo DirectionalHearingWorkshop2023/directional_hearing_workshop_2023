@@ -42,12 +42,16 @@ The sound content is all loyalty-free from "[XLN audio](https://www.xlnaudio.com
 
 "Baby Chick Chirp" from Logic Pro X
 Copyright © 2023 Apple Inc. All rights reserved.
+
 "Dog Bark 03" from Logic Pro X
 Copyright © 2023 Apple Inc. All rights reserved.
+
 "Thunder Roll" from Logic Pro X
 Copyright © 2023 Apple Inc. All rights reserved.
+
 "Gospel Improv 07" from Logic Pro X
 Copyright © 2023 Apple Inc. All rights reserved.
+
 "Master Funk Groove 07 Sync Funk" from Addictive Drums 2
 Copyright © 2023 XLN Audio. All rights reserved.
 

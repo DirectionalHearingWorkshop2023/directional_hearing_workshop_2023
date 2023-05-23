@@ -57,7 +57,7 @@ Copyright © 2023 XLN Audio. All rights reserved.
 
 ### Image Data
 Home page images:
-- http://www.mediacollege.com/audio/01/sound-waves.html
+- http://www.mediacollege.com/audio/01/sound-waves.html, and the educational permissions https://www.mediacollege.com/home/terms.html#google_vignette
 - Virtual Audio Systems Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Head-rotations-to-resolve-front-back-ambiguities-viewed-from-above-When-the-sound_fig3_220089969
 
 Third page images:

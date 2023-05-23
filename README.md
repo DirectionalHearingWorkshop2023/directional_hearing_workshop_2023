@@ -3,7 +3,7 @@ Hello! In this repository you will find the code and data used to create the Dir
 
 The web application is currently accessible using the following link:
 
-[![Streamlit App](https://directionalhearingworkshop2023-directional-hea-home-page-6axpms.streamlit.app/)
+![Streamlit App](https://directionalhearingworkshop2023-directional-hea-home-page-6axpms.streamlit.app/)
 
 ## Context
 The educational workshop was created for a University of New England (UNE) Masters of Data Science project. The client, Ron Bradbury, requested a web application be developed that can be used to teach High School Students the key concepts in directional hearing.
